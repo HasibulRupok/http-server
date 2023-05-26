@@ -31,3 +31,8 @@ This is a simple Python HTTP server that listens for incoming requests, processe
    - The client socket is closed.
 
 This server responds with either the content of a requested file or a "File Not Found" message with the appropriate HTTP status code. It is a basic implementation and should not be used in a production environment, as it lacks error handling, security measures, and scalability features.
+
+
+## License
+
+This project is licensed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). You are free to download and use this application, but you must provide appropriate credit to the original authors.
